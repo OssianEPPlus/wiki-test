@@ -1,3 +1,7 @@
+.testBgColor{
+  background-color: red;
+}
+
 #rect1 {
   fill: url(#Gradient1);
 }
