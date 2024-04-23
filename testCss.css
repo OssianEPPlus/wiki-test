@@ -1,0 +1,12 @@
+#rect1 {
+  fill: url(#Gradient1);
+}
+.stop1 {
+  stop-color: white;
+}
+.stop2 {
+  stop-color: red;
+}
+#rect2 {
+  fill: darkorange;
+}
